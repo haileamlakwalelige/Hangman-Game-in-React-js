@@ -1,0 +1,33 @@
+#but{
+    color:red;
+    padding: 5px;
+    background: rgb(0, 162, 255);
+    margin:5px;
+    width:50px;
+    height:50px;
+    border-radius: 10px;
+    border:none;
+    font-size:20px;
+    font-weight: bold;
+    color:white;
+}
+.hangman{
+    margin-bottom:30px;
+}
+.btn{
+    margin-bottom:50px;
+   background-color:aqua;
+    font-size:20px;
+    font-weight:bold;
+    height:50px;
+    width:100px;
+    border-radius: 10px;
+    border:none;
+    font-family:cursive;
+    
+}
+.btn:hover{
+    color:red;
+    background-color:black;
+    font-style:italic;
+}
